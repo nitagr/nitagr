@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Agrahari</h1>
-<h3 align="center">A Full stack developer</h3>
+<h3 align="center">A full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitagr&label=Profile%20views&color=0e75b6&style=flat" alt="nitagr" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and NestJS.**
 
-- 👨‍💻 All of my projects are available at [https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/](https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/)
+- 👨‍💻 Crio.Do porfolio available at [https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/](https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/)
 
 - 💬 Ask me about **NodeJS, React, MongoDB, Docker, DSA.**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nitagr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nitagr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitish-agrahari-724570154" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nitish-agrahari-724570154" height="30" width="40" /></a>
 <a href="https://instagram.com/_nitish_19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_nitish_19" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/one68_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="one68_" height="30" width="40" /></a>
