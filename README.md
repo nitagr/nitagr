@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitagr&label=Profile%20views&color=0e75b6&style=flat" alt="nitagr" /> </p>
 
-- 🌱 I’m currently learning **React and NestJS.**
+- 🌱 I’m currently learning **NestJS, Java**
 
 - 👨‍💻 Crio.Do porfolio available at [https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/](https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/)
 
