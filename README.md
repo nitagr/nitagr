@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitish Agrahari</h1>
-<h3 align="center">A full stack developer</h3>
+<h3 align="center">backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitagr&label=Profile%20views&color=0e75b6&style=flat" alt="nitagr" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Crio.Do porfolio available at [https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/](https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/)
 
-- 💬 Ask me about **NodeJS, React, MongoDB, Docker, DSA.**
+- 💬 Ask me about **NodeJS, Golang, MongoDB, SQL, Redis, AWS, Docker, DSA.**
 
 - 📫 How to reach me **nitishagrahari12@gmail.com**
 
