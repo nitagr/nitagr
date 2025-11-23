@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nitishagrahari12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1e-Ds3LtwIVXe4jmbsD3GhJkP_6hPpxPeACiubAc1drA/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10bld1ugDMlN8KM_Ii7hGgj4egMtUvtVv/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
