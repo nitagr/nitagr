@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently exploring **GenAI, Vector Databases**
 
-- 👨‍💻 All of my projects are available at [https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/](https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/)
+- 👨‍💻 All of my projects are available at [Crio.Do](https://criodo.github.io/Crio-Launch-Feb-2020-nitishagrahari12/)
 
 - 💬 Ask me about **Go,Databases and Distributed Systems.**
 
 - 📫 How to reach me **nitishagrahari12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1e-Ds3LtwIVXe4jmbsD3GhJkP_6hPpxPeACiubAc1drA](https://docs.google.com/document/d/1e-Ds3LtwIVXe4jmbsD3GhJkP_6hPpxPeACiubAc1drA)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1e-Ds3LtwIVXe4jmbsD3GhJkP_6hPpxPeACiubAc1drA/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
